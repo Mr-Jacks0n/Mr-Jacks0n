@@ -37,6 +37,7 @@ multi-agents) pour passer du pixel au produit déployé, vite et bien.
 | ⚡ [**LanceFer**](https://github.com/Mr-Jacks0n/LanceFer) — *LanceDrop* | Transfert de fichiers Android ↔ PC sans cloud, 51–70 Mo/s mesurés, reprise réseau, appairage QR | ✅ | Node + Electron + Compose | [💾 releases](https://github.com/Mr-Jacks0n/LanceFer/releases) |
 | 🏋️ [**ivoire-gym-gestion**](https://github.com/Mr-Jacks0n/ivoire-gym-gestion) | Gestion d'un club fitness à Bouaké : QR HMAC, finances SYSCOHADA, RH & messagerie | ✅ | React 19 + Express | [🌐 site](https://ivoire-gym-gestion.onrender.com) |
 | 🧠 [**IA**](https://github.com/Mr-Jacks0n/IA) — *ARIA* | Agent IA personnel **apprenant** : mémoire, règles, réflexion, GUI tkinter — mon premier assistant autonome | ✅ | Python | [⬇ repo](https://github.com/Mr-Jacks0n/IA) |
+| 🤖 [**agents-playground**](https://github.com/Mr-Jacks0n/agents-playground) | L'atelier d'agents IA : pipeline multi-agents simulé (veto sécurité), mini-ARIA à règles — 100 % navigateur, zéro LLM, zéro réseau | ✅ | JS statique | [🎮 démo en ligne](https://mr-jacks0n.github.io/agents-playground/) |
 | 📉 [**simulation-maintenance-predictive**](https://github.com/Mr-Jacks0n/simulation-maintenance-predictive) | Maintenance prédictive hybride validée sur dataset NASA C-MAPSS (AUC 0.984) | ✅ | Python | [⬇ repo](https://github.com/Mr-Jacks0n/simulation-maintenance-predictive) |
 
 > Chacun de ces projets a une vraie CI (tests automatisés, dont plusieurs
