@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Mr Jackson — Design graphique · UX/UI · Dev web & apps assistées par IA" width="100%">
+  <img src="assets/banner.png" alt="Mr Jackson · Design graphique · UX/UI · Dev web & apps assistées par IA" width="100%">
 </p>
 
 # Salut, moi c'est Mr Jackson 👋
 
-**Designer graphique & UX/UI devenu développeur — et créateur d'agents
+**Designer graphique & UX/UI devenu développeur · et créateur d'agents
 IA.** Je conçois les produits *et* je les construis. Ma particularité :
 je développe **assisté par l'intelligence artificielle**, avec des
 **agents que je crée moi-même** (assistants autonomes, usines logicielles
 multi-agents) pour passer du pixel au produit déployé, vite et bien.
 
-> 🇬🇧 *Graphic & UX/UI designer turned developer — and AI agent
+> 🇬🇧 *Graphic & UX/UI designer turned developer · and AI agent
 > builder. I design the product, then build it, with agents I create
 > myself (autonomous assistants, multi-agent software factories):
 > from pixel to deployed product.*
@@ -25,19 +25,19 @@ multi-agents) pour passer du pixel au produit déployé, vite et bien.
 |---|---|---|
 | 🎨 | **Design graphique** | Identités visuelles, affiches, matériaux de communication, vectoriel & print-ready |
 | ✏️ | **UX / UI design** | Maquettes, design systems, prototypes cliquables, accessibilité (WCAG AAA), dark & light modes |
-| 🌐 | **Dev web** | React 19 + TypeScript, FastAPI, PostgreSQL, Docker, CI/CD — front et back, aucun pont à moitié fini |
-| 🤖 | **Création d'agents IA** | Assistants autonomes & apprenants (mémoire, règles, réflexion), orchestration multi-agents (architecte → dev → QA → audit → release), garde-fous et évaluation humaine — pas un LLM collé sur un chat, des agents *industrialisés* |
-| 📱 | **Applications desktop & mobile** | Electron + Jetpack Compose, construites par ces pipelines d'agents — chaque feature passe un veto d'audit avant publication |
+| 🌐 | **Dev web** | React 19 + TypeScript, FastAPI, PostgreSQL, Docker, CI/CD · front et back, aucun pont à moitié fini |
+| 🤖 | **Création d'agents IA** | Assistants autonomes & apprenants (mémoire, règles, réflexion), orchestration multi-agents (architecte → dev → QA → audit → release), garde-fous et évaluation humaine · pas un LLM collé sur un chat, des agents *industrialisés* |
+| 📱 | **Applications desktop & mobile** | Electron + Jetpack Compose, construites par ces pipelines d'agents · chaque feature passe un veto d'audit avant publication |
 
 ## 🚀 Projets en vitrine (réels, tout public)
 
 | Projet | Pitch | Design? | Code? | Démo |
 |---|---|---|---|---|
-| 📡 [**Gestion-Wi-Fi**](https://github.com/Mr-Jacks0n/Gestion-Wi-Fi) — *Adven's Manager* | Vente & gestion de tickets Wi-Fi : caisse, Wave, FIFO vendeurs, audit immuable, PWA smartphone | ✅ | React TS + FastAPI | [🎮 démo en ligne](https://mr-jacks0n.github.io/Gestion-Wi-Fi/) |
-| ⚡ [**LanceFer**](https://github.com/Mr-Jacks0n/LanceFer) — *LanceDrop* | Transfert de fichiers Android ↔ PC sans cloud, 51–70 Mo/s mesurés, reprise réseau, appairage QR | ✅ | Node + Electron + Compose | [💾 releases](https://github.com/Mr-Jacks0n/LanceFer/releases) |
+| 📡 [**Gestion-Wi-Fi**](https://github.com/Mr-Jacks0n/Gestion-Wi-Fi) · *Adven's Manager* | Vente & gestion de tickets Wi-Fi : caisse, Wave, FIFO vendeurs, audit immuable, PWA smartphone | ✅ | React TS + FastAPI | [🎮 démo en ligne](https://mr-jacks0n.github.io/Gestion-Wi-Fi/) |
+| ⚡ [**LanceFer**](https://github.com/Mr-Jacks0n/LanceFer) · *LanceDrop* | Transfert de fichiers Android ↔ PC sans cloud, 51–70 Mo/s mesurés, reprise réseau, appairage QR | ✅ | Node + Electron + Compose | [💾 releases](https://github.com/Mr-Jacks0n/LanceFer/releases) |
 | 🏋️ [**ivoire-gym-gestion**](https://github.com/Mr-Jacks0n/ivoire-gym-gestion) | Gestion d'un club fitness à Bouaké : QR HMAC, finances SYSCOHADA, RH & messagerie | ✅ | React 19 + Express | [🌐 site](https://ivoire-gym-gestion.onrender.com) |
-| 🧠 [**IA**](https://github.com/Mr-Jacks0n/IA) — *ARIA* | Agent IA personnel **apprenant** : mémoire, règles, réflexion, GUI tkinter — mon premier assistant autonome | ✅ | Python | [⬇ repo](https://github.com/Mr-Jacks0n/IA) |
-| 🤖 [**agents-playground**](https://github.com/Mr-Jacks0n/agents-playground) | L'atelier d'agents IA : pipeline multi-agents simulé (veto sécurité), mini-ARIA à règles — 100 % navigateur, zéro LLM, zéro réseau | ✅ | JS statique | [🎮 démo en ligne](https://mr-jacks0n.github.io/agents-playground/) |
+| 🧠 [**IA**](https://github.com/Mr-Jacks0n/IA) · *ARIA* | Agent IA personnel **apprenant** : mémoire, règles, réflexion, GUI tkinter · mon premier assistant autonome | ✅ | Python | [⬇ repo](https://github.com/Mr-Jacks0n/IA) |
+| 🤖 [**agents-playground**](https://github.com/Mr-Jacks0n/agents-playground) | L'atelier d'agents IA : pipeline multi-agents simulé (veto sécurité), mini-ARIA à règles · 100 % navigateur, zéro LLM, zéro réseau | ✅ | JS statique | [🎮 démo en ligne](https://mr-jacks0n.github.io/agents-playground/) |
 | 📉 [**simulation-maintenance-predictive**](https://github.com/Mr-Jacks0n/simulation-maintenance-predictive) | Maintenance prédictive hybride validée sur dataset NASA C-MAPSS (AUC 0.984) | ✅ | Python | [⬇ repo](https://github.com/Mr-Jacks0n/simulation-maintenance-predictive) |
 
 > Chacun de ces projets a une vraie CI (tests automatisés, dont plusieurs
@@ -46,13 +46,13 @@ multi-agents) pour passer du pixel au produit déployé, vite et bien.
 
 ## 🧪 Ma méthode : le mieux des deux mondes
 
-1. **Le design d'abord** — besoins réels, maquettes fidèles aux usages,
+1. **Le design d'abord** · besoins réels, maquettes fidèles aux usages,
    tokens de design réutilisés telles quelles dans le code.
-2. **L'IA comme chaîne de production** — mais *sous contrôle* :
+2. **L'IA comme chaîne de production** · mais *sous contrôle* :
    architectes, ingénieurs, QA, auditeurs sécurité et gatekeepers de
    release travaillent avec moi ; **chaque feature passe au veto d'audit**
    et des tests avant publication.
-3. **La fiabilité du produit fini** — CI verte obligatoire, historique git
+3. **La fiabilité du produit fini** · CI verte obligatoire, historique git
    propreté, releases signées par artefacts construits automatiquement.
 
 ## 🛠 Outils & stack
@@ -85,7 +85,7 @@ multi-agents, mémoire apprenante, QA adversariale, évaluation humaine.)
   en une seule équipe, ou dev outillé IA pour livrer vite *sans sacrifier
   la robustesse*).
 - 🖤 Profil à corriger ? Le [dépôt de votre profil](https://github.com/Mr-Jacks0n/Mr-Jacks0n) sert
-  aussi d'espace d'échange — [ouvrez une issue](https://github.com/Mr-Jacks0n/Mr-Jacks0n/issues) 😄
+  aussi d'espace d'échange · [ouvrez une issue](https://github.com/Mr-Jacks0n/Mr-Jacks0n/issues) 😄
 - ⚡ Fun fact : chaque dépôt de ce profil a été conçu, maquetté, codé,
-  testé puis relu… en binôme (honnête) avec l'IA — le design et le veto
+  testé puis relu… en binôme (honnête) avec l'IA · le design et le veto
   final restent humains.
